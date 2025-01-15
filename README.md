@@ -26,7 +26,7 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 
 ### Elevator pitch
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+If you were to open your fridge right now, you would see a concophony of lost ingredients. You make a recipe, and when the recipe asks for half of an onion, the other half sits sadly in your fridge. We present the solution. Not only a hub to store your home recipes, but a way to discover new recipes, and most important of all, a place to ask what you can do with all of your leftover scrap that will turn into another delicious meal. eCook is your one stop shop for everything cooking, because the only thing better than cooking is eating!
 
 ### Design
 
