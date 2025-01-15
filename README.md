@@ -21,7 +21,7 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 - [x] Proper use of Markdown
 - [x] A concise and compelling elevator pitch
 - [x] Description of key features
-- [ ] Description of how you will use each technology
+- [x] Description of how you will use each technology
 - [x] One or more rough sketches of your application. Images must be embedded in this file using Markdown image references.
 
 ### Elevator pitch
@@ -46,6 +46,7 @@ There is a home page with all features laid out across the page directing users 
 - Home page, featuring a search bar at the top for searching recipes, a main hub to look at recommended recipes, sign in, and button directing to fridge page.
 - Fridge function that will take ingredients input and analyze recipes for said ingredients and provide matches to the user.
 - Ability to input recipes and add recipes from recommended.
+- Users can be suggested other user's recipes, and home page display of other user's recipes.
 
 ### Technologies
 
