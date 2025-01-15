@@ -1,4 +1,4 @@
-# Your startup name here
+# eCook
 
 [My Notes](notes.md)
 
