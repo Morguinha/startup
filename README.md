@@ -38,12 +38,8 @@ If you were to open your fridge right now, you would see a concophony of lost in
 
 There is a home page with all features laid out across the page directing users towards different functions, a recommended page that recommmends certain types of recipes to the user, a fridge page that based off of the input ingredients will suggest either saved recipes or recommended recipes to the user, and finally, when a recipe is selected it will appear in a pop up window to the user, with options to save or exit.
 
-```mermaid
-sequenceDiagram
-    actor You
-    actor Website
-    You->>Website: Replace this with your design
-```
+![SequenceDiagram](https://github.com/user-attachments/assets/81717321-6f1a-4e5c-96c1-ba682de36d1f)
+
 
 ### Key features
 
