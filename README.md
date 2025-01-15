@@ -33,6 +33,7 @@ If you were to open your fridge right now, you would see a concophony of lost in
 ![Home](https://github.com/user-attachments/assets/eafdefc1-d0c9-487a-a22d-6ff45c8faf60)
 ![Recommended](https://github.com/user-attachments/assets/7872ab8a-070e-470c-b279-0770ad333836)
 ![Fridge](https://github.com/user-attachments/assets/38ef6fa9-f2a1-4689-bbbc-f3d858479090)
+![My Recipes](https://github.com/user-attachments/assets/378ac501-7f24-4c84-b0eb-223ed87864b1)
 ![Recipe](https://github.com/user-attachments/assets/3e082569-23fa-4ec0-a7da-9f6c0e8f11c0)
 
 There is a home page with all features laid out across the page directing users towards different functions, a recommended page that recommmends certain types of recipes to the user, a fridge page that based off of the input ingredients will suggest either saved recipes or recommended recipes to the user, and finally, when a recipe is selected it will appear in a pop up window to the user, with options to save or exit.
