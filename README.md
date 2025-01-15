@@ -30,8 +30,10 @@ If you were to open your fridge right now, you would see a concophony of lost in
 
 ### Design
 
-![Design image](placeholder.png)
-![Design image](placeholder.png)
+![Home](https://github.com/user-attachments/assets/eafdefc1-d0c9-487a-a22d-6ff45c8faf60)
+![Recommended](https://github.com/user-attachments/assets/7872ab8a-070e-470c-b279-0770ad333836)
+![Fridge](https://github.com/user-attachments/assets/38ef6fa9-f2a1-4689-bbbc-f3d858479090)
+![Recipe](https://github.com/user-attachments/assets/3e082569-23fa-4ec0-a7da-9f6c0e8f11c0)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
