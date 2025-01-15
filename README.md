@@ -18,11 +18,11 @@ This is an application that not only stores the user's recipes, but also will re
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
-- [ ] Proper use of Markdown
-- [ ] A concise and compelling elevator pitch
-- [ ] Description of key features
+- [x] Proper use of Markdown
+- [x] A concise and compelling elevator pitch
+- [x] Description of key features
 - [ ] Description of how you will use each technology
-- [ ] One or more rough sketches of your application. Images must be embedded in this file using Markdown image references.
+- [x] One or more rough sketches of your application. Images must be embedded in this file using Markdown image references.
 
 ### Elevator pitch
 
@@ -51,12 +51,12 @@ There is a home page with all features laid out across the page directing users 
 
 I am going to use the required technologies in the following ways.
 
-- **HTML** - Description here
-- **CSS** - Description here
-- **React** - Description here
-- **Service** - Description here
-- **DB/Login** - Description here
-- **WebSocket** - Description here
+- **HTML** - Four pages, with a pop up for login, and another for a recipe.
+- **CSS** - Good blend of colors across the website that are engaging but not overpowering, side scrolling menus animated, home page animation.
+- **React** - Login provides user with saved recipes, recommendions change based on saved recipes
+- **Service** - Backend service with endpoints for retriving recipes, submitting ingredients and retriving recipes. Third party call to spoonacular API and/or TheMealDB
+- **DB/Login** - Store users recipes, recommendations in database. Can access recipes, but cannot save recipes without login. Credentials stored in database securely.
+- **WebSocket** - Suggestions for recipes from other users, and a specific part of the home page displaying what other users are cooking.
 
 ## 🚀 AWS deliverable
 
