@@ -35,7 +35,7 @@ If you were to open your fridge right now, you would see a concophony of lost in
 ![Fridge](https://github.com/user-attachments/assets/38ef6fa9-f2a1-4689-bbbc-f3d858479090)
 ![Recipe](https://github.com/user-attachments/assets/3e082569-23fa-4ec0-a7da-9f6c0e8f11c0)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+There is a home page with all features laid out across the page directing users towards different functions, a recommended page that recommmends certain types of recipes to the user, a fridge page that based off of the input ingredients will suggest either saved recipes or recommended recipes to the user, and finally, when a recipe is selected it will appear in a pop up window to the user, with options to save or exit.
 
 ```mermaid
 sequenceDiagram
@@ -46,9 +46,9 @@ sequenceDiagram
 
 ### Key features
 
-- Describe your key feature
-- Describe your key feature
-- Describe your key feature
+- Home page, featuring a search bar at the top for searching recipes, a main hub to look at recommended recipes, sign in, and button directing to fridge page.
+- Fridge function that will take ingredients input and analyze recipes for said ingredients and provide matches to the user.
+- Ability to input recipes and add recipes from recommended.
 
 ### Technologies
 
