@@ -22,3 +22,6 @@
 Remember when referencing a link to include text that will turn into the link
 
 images need to have width so that they can conform to the size of the webpage
+
+structure fork link
+ https://codepen.io/Morguinha/pen/YPKbwbY
