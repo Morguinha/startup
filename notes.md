@@ -28,3 +28,6 @@ structure fork link
 
 media fork link
  https://codepen.io/Morguinha/pen/emOwRxK
+
+helpful command example
+ ./deployFiles.sh -k ~/keys/production.pem -h yourdomain.click -s simon
