@@ -25,3 +25,6 @@ images need to have width so that they can conform to the size of the webpage
 
 structure fork link
  https://codepen.io/Morguinha/pen/YPKbwbY
+
+media fork link
+ https://codepen.io/Morguinha/pen/emOwRxK
