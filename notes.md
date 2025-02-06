@@ -31,3 +31,5 @@ media fork link
 
 helpful command example
  ./deployFiles.sh -k ~/keys/production.pem -h yourdomain.click -s simon
+
+ include in the gitignore - node_modules/
